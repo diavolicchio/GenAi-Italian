@@ -1,0 +1,17 @@
+{
+	"HELP_DESC": "Configura le opzioni del canale",
+	"LIST": "lista delle opzioni configurate:\n%list%",
+	"ENABLED": "abilitatà",
+	"DISABLED": "disabilitata",
+	"NOT_FOUND_OPTION": "nessuna opzione del genere trovata. Vedi la lista delle opzioni in `%prefix%config`.",
+	"UPDATED": "opzione %option% aggiornata con successo.",
+	"FAILED": "Ho fallito ad aggiornare %option%.",
+	"LIST_TIP": "Puoi cambiare lo stato dell'azione con `%prefix%config <option> [+|-]`",
+	"OPTIONS": {
+		"LINKS": "rimuovi i link dai messaggi",
+		"READ": "salva i messaggi in automatico",
+		"MENTIONS": "disabilita le menzioni/tag nei messaggi",
+		"USE_AVATARS": "usa gli avatar dei membri come source nei comandi immagini",
+		"MENTION_GENERATE": "genera un messaggio quando il bot è menzionato/taggato"
+	}
+}
