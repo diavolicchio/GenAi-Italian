@@ -1,0 +1,5 @@
+{
+  "HELP_DESC": "Genera un bugurt",
+  "USAGE_EXAMPLE_1": "Genera bugurt dai messaggi di questo canale",
+  "USAGE_EXAMPLE_2": "Genera bugurt dai messaggi del canale `#memes`"
+}
