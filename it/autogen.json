@@ -1,0 +1,21 @@
+{
+	"HELP_DESC": "Cambia i tipi per la generazione automatica (solo premium)",
+	"TYPES": {
+		"string": "String",
+		"dialog": "Dialog",
+		"bugurt": "Bugurt",
+		"rage": "Fumetti rage",
+		"demotivator": "Demotivatore",
+		"jacque": "Frase di Jacque Fresco's ",
+		"lobster": "Testo con Lobster font sulla immagine",
+		"impact": "Testo con la fonte Impact sull'immagine",
+		"bruh": "Testo su un background bianco con un immagine sotto",
+		"all": "Abilitali tutti",
+		"default": "Metti al type default"
+	},
+	"ENABLED": "Abilitato",
+	"DISABLED": "Disabilitato",
+	"TITLE": "Configurazione dei types",
+	"UPDATED": "Lista dei types per la generazione automatica aggiornata con successo",
+	"EMPTY_BITFIELD": "Hai bisogno di attivare almeno un tipo di generazione"
+}
