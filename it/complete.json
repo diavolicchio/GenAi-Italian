@@ -1,0 +1,5 @@
+{
+	"HELP_DESC": "Completa il tuo messaggio con tutti i messaggi salvati del canale",
+	"USAGE_EXAMPLE_1": "Completa `bruh` con i messaggi salvati nel canale",
+	"USAGE_EXAMPLE_2": "Completa `ciao` nei messaggi dal canale `#copy-paste`"
+}
